@@ -1,6 +1,6 @@
 ---
 Title: Undergraduate Programs in Classics
-css: https://cdn.rawgit.com/Jmuccigr/css/master/clean_md.css
+css: https://cdn.rawgit.com/Jmuccigr/css/latest/clean_md.css
 ---
 
 # Undergraduate Programs in Classics
