@@ -205,7 +205,7 @@ Skip to institutions whose names begin with:\
     -   [Department Homepage](http://www.fsu.edu/%7Eclassics/)
 
 1. Fordham University
-    -   [Department Homepage](http://www.fordham.edu/classics/homepage.html)
+    -   [Department Homepage](http://www.fordham.edu/info/20556/classics)
 
 1. Franklin and Marshall College
     -   [Department Homepage](http://server1.fandm.edu/departments/classics/)
