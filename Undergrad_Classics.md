@@ -162,7 +162,7 @@ Skip to institutions whose names begin with:
 
 1. Cornell College
     -   [Department Homepage](http://www.cornellcollege.edu/classical_studies/)
-    -   [John Gruber-Miller](mailto:jgruber-miller@cornell-iowa.edu),
+    -   [John Gruber-Miller](mailto:jgruber-miller@cornellcollege.edu),
         Department Contact
 
 1. Cornell University
