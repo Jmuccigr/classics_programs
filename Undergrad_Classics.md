@@ -1,5 +1,5 @@
 ---
-Title: Undergraduate Programs in Classics
+title: Undergraduate Programs in Classics
 css: https://cdn.rawgit.com/Jmuccigr/css/latest/clean_md.css
 ---
 
