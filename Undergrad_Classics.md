@@ -3,8 +3,6 @@ title: Undergraduate Programs in Classics
 css: https://cdn.rawgit.com/Jmuccigr/css/latest/clean_md.css
 ---
 
-# Undergraduate Programs in Classics
-
 This list started as the one I maintained for the [ACL](http://www.aclclassics.org/), the primary purpose of which was to provide to secondary-school Classics programs and prospective undergraduates the WWW pages, e-mail addresses, and, lacking those, the telephone numbers and snail-mail addresses of undergraduate programs in Classics and Classical Archaeology. I suppose it ought to continue to do this, but I found it useful for myself, so I decided to keep it up, even after the I stopped being ACL webmaster.
 
 \  
@@ -82,7 +80,7 @@ Skip to institutions whose names begin with:
     -   [Department Homepage](http://www.bsc.edu/academics/catalog2004-05/pages/courses/classics.htm)
 
 1. Boston College
-    -   [Department Homepage](http://fmwww.bc.edu/CL/), via Gopher
+    -   [Department Homepage](http://fmwww.bc.edu/CL/)
 
 1. Bowdoin College
     -   [Department Homepage](http://academic.bowdoin.edu/classics/)
@@ -101,7 +99,7 @@ Skip to institutions whose names begin with:
     -   [Department Homepage](http://academic.brooklyn.cuny.edu/classics/classics.htm)
     -   [Roger Dunkle](mailto:rdunkle@brooklyn.cuny.edu), Department Contact
 
-1. Brown Univeristy
+1. Brown University
     -   [Department Homepage](http://www.brown.edu/Departments/Classics/)
     -   [Department E-mail](mailto:Classics_Department@brown.edu)
 
@@ -190,7 +188,7 @@ Skip to institutions whose names begin with:
 
 1. Drew University
     -   [Department Homepage](http://www.depts.drew.edu/classics/)
-    -   [John Lenz](mailto:jlenz@drew.edu), Department Chair
+    -   [John Muccigrosso](mailto:jmuccigr@drew.edu), Department Chair
 
 1. Duke University
     -   [Department Homepage](http://www.duke.edu/web/classics/)
