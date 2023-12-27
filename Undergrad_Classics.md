@@ -5,9 +5,9 @@ css: https://cdn.rawgit.com/Jmuccigr/css/latest/clean_md.css
 
 This list started as the one I maintained for the [ACL](http://www.aclclassics.org/), the primary purpose of which was to provide to secondary-school Classics programs and prospective undergraduates the WWW pages, e-mail addresses, and, lacking those, the telephone numbers and snail-mail addresses of undergraduate programs in Classics and Classical Archaeology. I suppose it ought to continue to do this, but I found it useful for myself, so I decided to keep it up, even after the I stopped being ACL webmaster.
 
-\  
+\
 
-I am eager to have as complete a listing as possible. Undergraduate programs are encouraged to use [GitHub](https://github.com/Jmuccigr/classics_programs) to make edits to this document and create a pull request for their changes. Alternatively, you can [send me](mailto:john@muccigrosso.org) relevant information, especially the e-mail addresses of contact people for prospective students. If a department has no internet information, I'll post its street address and phone number.
+I am eager to have as complete a listing as possible. Undergraduate programs are encouraged to use [GitHub](https://github.com/Jmuccigr/classics_programs) to make edits to this document and create a pull request for their changes. Alternatively, you can [send me](mailto:j.muccigrosso@aur.edu) relevant information, especially the e-mail addresses of contact people for prospective students. If a department has no internet information, I'll post its street address and phone number.
 
 ------------------------------------------------------------------------
 
@@ -21,6 +21,7 @@ Jump to:
 -   [Great Britain](#great-britain)
 -   [Ireland](#ireland)
 -   [Israel](#israel)
+-   [Italy](#italy)
 
 ### United States and Canada
 
@@ -777,6 +778,14 @@ Skip to institutions whose names begin with:
 1.  Bar Ilan University
     -   [Department Homepage](http://www.biu.ac.il/HU/cl/)
     -   [David M. Schaps](mailto:dschaps@tamar.cc.biu.ac.il), Department contact
+
+[To the top](#undergraduate-programs-in-classics)
+
+### Italy
+
+1.  American University of Rome
+    -   [Department Homepage](https://aur.edu/program/bachelor-degree-archaeology-classics)
+    -   [Elizabeth Wueste](mailto:e.wueste@aur.edu), Department contact
 
 [To the top](#undergraduate-programs-in-classics)
 
